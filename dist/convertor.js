@@ -141,7 +141,7 @@ class PrismaConvertor {
                         decoratorArgs.name = 'IsObject';
                         break;
                     case 'Json':
-                        decoratorArgs.name = 'IsJSON';
+                        decoratorArgs.name = 'IsObject';
                         break;
                     case 'Boolean':
                         decoratorArgs.name = 'IsBoolean';
